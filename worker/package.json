@@ -1,0 +1,15 @@
+{
+  "name": "eap-fcm-worker",
+  "version": "1.0.0",
+  "description": "FCM HTTP v1 push notification sender",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "^4.20231218.0",
+    "typescript": "^5.0.0",
+    "wrangler": "^3.0.0"
+  }
+}

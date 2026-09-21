@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">EAP Tracker</string>
+    <string name="default_web_client_id">786004356581-22mkt3lbf0rngpns3dagvknh83dpkk9v.apps.googleusercontent.com</string>    <string name="widget_routine_title">Today\'s Routine &amp; Exam</string>
+    <string name="widget_routine_desc">Check today\'s scheduled classes, topics, and exams directly from home screen.</string>
+    <string name="widget_goal_title">Daily Study Goal</string>
+    <string name="widget_goal_desc">Track daily study hours and launch focus timer instantly.</string>
+    <string name="widget_progress_title">Syllabus &amp; Marks Progress</string>
+    <string name="widget_progress_desc">Monitor chapter completions and exam scores.</string>
+</resources>

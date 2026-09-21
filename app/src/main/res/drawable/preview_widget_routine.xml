@@ -1,0 +1,68 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="130dp"
+    android:viewportWidth="250"
+    android:viewportHeight="130">
+
+    <!-- Card Background -->
+    <path
+        android:pathData="M16,0 H234 A16,16 0 0 1 250,16 V114 A16,16 0 0 1 234,130 H16 A16,16 0 0 1 0,114 V16 A16,16 0 0 1 16,0 Z"
+        android:fillColor="#1A202C"
+        android:strokeColor="#334155"
+        android:strokeWidth="1" />
+
+    <!-- App Logo Icon Circle -->
+    <path
+        android:pathData="M24,14 A8,8 0 1 1 23.9,14 Z"
+        android:fillColor="#0284C7" />
+
+    <!-- Header Text: EAP TRACKER -->
+    <path
+        android:pathData="M38,11 H110 V17 H38 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Date Tag Pill -->
+    <path
+        android:pathData="M185,9 H235 A6,6 0 0 1 241,15 V19 A6,6 0 0 1 235,25 H185 A6,6 0 0 1 179,19 V15 A6,6 0 0 1 185,9 Z"
+        android:fillColor="#1E293B" />
+    <path
+        android:pathData="M190,14 H230 V19 H190 Z"
+        android:fillColor="#E2E8F0" />
+
+    <!-- Divider Line -->
+    <path
+        android:pathData="M12,32 H238"
+        android:strokeColor="#334155"
+        android:strokeWidth="1" />
+
+    <!-- Class Subject -->
+    <path
+        android:pathData="M16,42 H150 V50 H16 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Topics -->
+    <path
+        android:pathData="M16,56 H180 V62 H16 Z"
+        android:fillColor="#94A3B8" />
+
+    <!-- Exam -->
+    <path
+        android:pathData="M16,68 H130 V75 H16 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Button 1: View Routine -->
+    <path
+        android:pathData="M16,88 H120 A8,8 0 0 1 128,96 V110 A8,8 0 0 1 120,118 H16 A8,8 0 0 1 8,110 V96 A8,8 0 0 1 16,88 Z"
+        android:fillColor="#0284C7" />
+    <path
+        android:pathData="M30,100 H106 V106 H30 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Button 2: Open App -->
+    <path
+        android:pathData="M136,88 H234 A8,8 0 0 1 242,96 V110 A8,8 0 0 1 234,118 H136 A8,8 0 0 1 128,110 V96 A8,8 0 0 1 136,88 Z"
+        android:fillColor="#2D3748" />
+    <path
+        android:pathData="M155,100 H215 V106 H155 Z"
+        android:fillColor="#E2E8F0" />
+</vector>
