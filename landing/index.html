@@ -1,0 +1,540 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EAP Tracker — Engineering & Varsity Admission Companion</title>
+    <meta name="description" content="EAP Tracker is the premier Android study tracker for BUET, CKRUET, DU, and Medical admission aspirants. Track routines, syllabus, question banks, exams, and focus sessions.">
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+    
+    <!-- Lucide Icons -->
+    <script src="https://unpkg.com/lucide@latest"></script>
+    
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Background Glows -->
+    <div class="ambient-glow glow-1"></div>
+    <div class="ambient-glow glow-2"></div>
+    <div class="ambient-glow glow-3"></div>
+
+    <!-- Navigation Bar -->
+    <header class="navbar-container">
+        <nav class="navbar">
+            <a href="#" class="nav-brand">
+                <img src="assets/icon1.png" alt="EAP Tracker Logo" class="brand-logo">
+                <span class="brand-name">EAP<span>Tracker</span></span>
+            </a>
+            
+            <ul class="nav-links">
+                <li><a href="#features">Features</a></li>
+                <li><a href="#routine">Routine</a></li>
+                <li><a href="#syllabus">Syllabus & QB</a></li>
+                <li><a href="#focus">Focus Timer</a></li>
+                <li><a href="#widgets">Widgets</a></li>
+                <li><a href="#screenshots">Screenshots</a></li>
+                <li><a href="#faq">FAQ</a></li>
+            </ul>
+
+            <div class="nav-actions">
+                <a href="#download" class="btn-cta">
+                    <i data-lucide="download"></i>
+                    <span>Download App</span>
+                </a>
+            </div>
+            
+            <button class="mobile-menu-btn" id="mobileMenuBtn" aria-label="Toggle Menu">
+                <i data-lucide="menu"></i>
+            </button>
+        </nav>
+    </header>
+
+    <!-- Mobile Drawer -->
+    <div class="mobile-drawer" id="mobileDrawer">
+        <ul class="mobile-nav-links">
+            <li><a href="#features" class="mobile-link">Features</a></li>
+            <li><a href="#routine" class="mobile-link">Routine</a></li>
+            <li><a href="#syllabus" class="mobile-link">Syllabus & QB</a></li>
+            <li><a href="#focus" class="mobile-link">Focus Timer</a></li>
+            <li><a href="#widgets" class="mobile-link">Widgets</a></li>
+            <li><a href="#screenshots" class="mobile-link">Screenshots</a></li>
+            <li><a href="#faq" class="mobile-link">FAQ</a></li>
+            <li><a href="#download" class="btn-cta mobile-cta"><i data-lucide="download"></i> Download App</a></li>
+        </ul>
+    </div>
+
+    <!-- Hero Section -->
+    <section class="hero-section">
+        <div class="container hero-container">
+            <div class="hero-content">
+                <div class="hero-badge">
+                    <span class="badge-dot"></span>
+                    <span>ENGINEERING & VARSITY ADMISSION 2026</span>
+                </div>
+                <h1 class="hero-title">
+                    Master Your Dream Admission with <span class="gradient-text">Absolute Precision</span>
+                </h1>
+                <p class="hero-subtitle">
+                    The all-in-one smart tracker built for engineering and university admission aspirants. Track routines, solve question banks, log exam marks, and boost study focus with live Android widgets and non-stop sync.
+                </p>
+                <div class="hero-cta-group">
+                    <a href="#download" class="btn-primary">
+                        <i data-lucide="download"></i>
+                        <div class="btn-text">
+                            <span class="btn-sub">Direct APK Release</span>
+                            <span class="btn-main">Download App v1.0</span>
+                        </div>
+                    </a>
+                    <a href="#features" class="btn-secondary">
+                        <i data-lucide="sparkles"></i>
+                        <span>Explore Features</span>
+                    </a>
+                </div>
+                
+                <div class="hero-highlights">
+                    <div class="highlight-item">
+                        <i data-lucide="check-circle-2"></i>
+                        <span>100% Offline Ready</span>
+                    </div>
+                    <div class="highlight-item">
+                        <i data-lucide="shield-check"></i>
+                        <span>Google Drive Backup</span>
+                    </div>
+                    <div class="highlight-item">
+                        <i data-lucide="layout-grid"></i>
+                        <span>3 Home Screen Widgets</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="hero-visual">
+                <div class="phone-mockup-wrapper">
+                    <div class="phone-frame">
+                        <div class="phone-camera-notch"></div>
+                        <img src="assets/app_home_screenshot.png" alt="EAP Tracker Home Dashboard" class="phone-screen">
+                    </div>
+
+                    <!-- Floating Glass Badges -->
+                    <div class="floating-badge badge-top-right">
+                        <div class="badge-icon-box cyan">
+                            <i data-lucide="calendar"></i>
+                        </div>
+                        <div class="badge-info">
+                            <span class="badge-label">Today's Class</span>
+                            <span class="badge-val">Physics (P-01)</span>
+                        </div>
+                    </div>
+
+                    <div class="floating-badge badge-bottom-left">
+                        <div class="badge-icon-box orange">
+                            <i data-lucide="flame"></i>
+                        </div>
+                        <div class="badge-info">
+                            <span class="badge-label">Study Streak</span>
+                            <span class="badge-val">14 Days Active</span>
+                        </div>
+                    </div>
+
+                    <div class="floating-badge badge-bottom-right">
+                        <div class="badge-icon-box green">
+                            <i data-lucide="timer"></i>
+                        </div>
+                        <div class="badge-info">
+                            <span class="badge-label">Daily Goal</span>
+                            <span class="badge-val">6.5 / 8.0h Done</span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Key Metrics Ribbon -->
+    <section class="metrics-ribbon">
+        <div class="container ribbon-grid">
+            <div class="metric-card">
+                <span class="metric-num">300+</span>
+                <span class="metric-desc">Classes & Topics Mapped</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-num">3-Phase</span>
+                <span class="metric-desc">Syllabus, QB & Practice Tracking</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-num">3 Widgets</span>
+                <span class="metric-desc">Interactive Home Screen Access</span>
+            </div>
+            <div class="metric-card">
+                <span class="metric-num">0 ms</span>
+                <span class="metric-desc">Instant Offline Response</span>
+            </div>
+        </div>
+    </section>
+
+    <!-- Main Features Section -->
+    <section class="features-section" id="features">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">CORE CAPABILITIES</span>
+                <h2 class="section-title">Engineered Specifically for Admission Aspirants</h2>
+                <p class="section-subtitle">Every feature is designed to reduce friction, eliminate procrastination, and give you 100% clarity over your preparation.</p>
+            </div>
+
+            <div class="features-grid">
+                <!-- Feature 1 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper cyan">
+                        <i data-lucide="calendar-range"></i>
+                    </div>
+                    <h3 class="feature-title">Dynamic Routine & Exams</h3>
+                    <p class="feature-text">Seamlessly switch between Offline Branch and Online batches. Automatically tracks today's class topics, exams, and admission countdowns.</p>
+                </div>
+
+                <!-- Feature 2 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper purple">
+                        <i data-lucide="book-open-check"></i>
+                    </div>
+                    <h3 class="feature-title">3-Phase Syllabus & QB Tracker</h3>
+                    <p class="feature-text">Detailed chapter breakdown for Physics, Chemistry, Math & Bio. Mark classes done, track Question Bank solving, and log revision cycles.</p>
+                </div>
+
+                <!-- Feature 3 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper green">
+                        <i data-lucide="timer-reset"></i>
+                    </div>
+                    <h3 class="feature-title">Live Focus & Chronometer Card</h3>
+                    <p class="feature-text">Dedicated study stopwatch with ongoing notifications. Pauses, finishes, and syncs study minutes directly to your daily goal.</p>
+                </div>
+
+                <!-- Feature 4 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper blue">
+                        <i data-lucide="layout"></i>
+                    </div>
+                    <h3 class="feature-title">3 Home Screen Widgets</h3>
+                    <p class="feature-text">Browse tomorrow's routine with Next/Prev buttons, check syllabus progress, and launch the timer directly from your phone's home screen.</p>
+                </div>
+
+                <!-- Feature 5 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper yellow">
+                        <i data-lucide="line-chart"></i>
+                    </div>
+                    <h3 class="feature-title">Exam Marks & Analytics</h3>
+                    <p class="feature-text">Record MCQ and Written marks for daily, weekly, and paper final exams. Instant percentage calculations and performance trends.</p>
+                </div>
+
+                <!-- Feature 6 -->
+                <div class="feature-card">
+                    <div class="feature-icon-wrapper red">
+                        <i data-lucide="cloud-lightning"></i>
+                    </div>
+                    <h3 class="feature-title">Google Drive & Cloud Sync</h3>
+                    <p class="feature-text">1-Click automatic encrypted backup to your personal Google Drive. Syncs with real-time Firebase cloud to prevent any data loss.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Deep Dive: Routine & Exam Section -->
+    <section class="deepdive-section" id="routine">
+        <div class="container deepdive-grid">
+            <div class="deepdive-visual">
+                <div class="phone-frame mini">
+                    <img src="assets/app_home_screenshot.png" alt="Routine View" class="phone-screen">
+                </div>
+            </div>
+            <div class="deepdive-content">
+                <span class="section-badge">SMART SCHEDULES</span>
+                <h2 class="deepdive-title">Never Miss a Single Class or Daily Exam</h2>
+                <p class="deepdive-text">Admission preparation moves fast. EAP Tracker organizes your entire coaching schedule into daily, digestible cards with topics and exam marks ready to log.</p>
+                
+                <ul class="feature-list">
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Offline & Online Multi-Mode:</strong>
+                            <span>Switch between branch class routines and online live programs anytime.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Automated Daily Alerts:</strong>
+                            <span>Morning 08:00 AM class reminders and evening 09:30 PM preparation reviews.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Exam Schedule Archive:</strong>
+                            <span>Full schedule with marks weightage, syllabus scope, and syllabus links.</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- Deep Dive: Syllabus & QB Section -->
+    <section class="deepdive-section reverse" id="syllabus">
+        <div class="container deepdive-grid">
+            <div class="deepdive-content">
+                <span class="section-badge">COMPLETE MASTERY</span>
+                <h2 class="deepdive-title">Track Every Chapter from Theory to Question Bank</h2>
+                <p class="deepdive-text">Gain 100% visibility into which chapters you have mastered and where you need more practice with our 3-phase chapter checklist.</p>
+                
+                <ul class="feature-list">
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Physics, Chemistry, Higher Math & Biology:</strong>
+                            <span>Complete 1st and 2nd paper chapter trees with authentic NCTB curriculum.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Question Bank (QB) Tracker:</strong>
+                            <span>Mark engineering and varsity QB problems solved per chapter.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Subject Benchmark:</strong>
+                            <span>Real-time completion percentage per subject to balance your daily study time.</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            <div class="deepdive-visual">
+                <div class="phone-frame mini">
+                    <img src="assets/app_syllabus_screenshot.png" alt="Syllabus View" class="phone-screen">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Deep Dive: Focus Timer & Widgets Section -->
+    <section class="deepdive-section" id="focus">
+        <div class="container deepdive-grid">
+            <div class="deepdive-visual">
+                <div class="phone-frame mini">
+                    <img src="assets/app_focus_screenshot.png" alt="Focus Timer View" class="phone-screen">
+                </div>
+            </div>
+            <div class="deepdive-content">
+                <span class="section-badge">DEEP STUDY ENGINE</span>
+                <h2 class="deepdive-title">Deep Focus Stopwatch with Android Widgets</h2>
+                <p class="deepdive-text">Eliminate digital distractions. Track focused study hours with a large, dedicated notification card and live home screen widgets.</p>
+                
+                <ul class="feature-list">
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Non-Dismissible Live Chronometer:</strong>
+                            <span>Status bar and lock screen stopwatch ticks live with instant Pause/Log controls.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>3 Home Screen Widgets:</strong>
+                            <span>Browse tomorrow's routine, view daily goals, and check syllabus % directly on phone home screen.</span>
+                        </div>
+                    </li>
+                    <li>
+                        <i data-lucide="check-circle" class="list-icon"></i>
+                        <div>
+                            <strong>Goal Progress & Study Streaks:</strong>
+                            <span>Daily target meter with animated progress rings and streak multiplier badges.</span>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- App Screenshots Gallery Section -->
+    <section class="screenshots-section" id="screenshots">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">APP GALLERY</span>
+                <h2 class="section-title">Designed with a Modern Cyber Aesthetic</h2>
+                <p class="section-subtitle">Experience the sleek dark interface with optical frosted glass blur and vibrant admission milestone accents.</p>
+            </div>
+
+            <div class="screenshots-carousel">
+                <div class="screenshot-item">
+                    <div class="phone-frame small">
+                        <img src="assets/app_home_screenshot.png" alt="Home Dashboard">
+                    </div>
+                    <span class="screen-caption">Home & Routine</span>
+                </div>
+
+                <div class="screenshot-item">
+                    <div class="phone-frame small">
+                        <img src="assets/app_syllabus_screenshot.png" alt="Syllabus Tracker">
+                    </div>
+                    <span class="screen-caption">Syllabus & QB</span>
+                </div>
+
+                <div class="screenshot-item">
+                    <div class="phone-frame small">
+                        <img src="assets/app_exams_screenshot.png" alt="Exam Schedules">
+                    </div>
+                    <span class="screen-caption">Exam Schedules</span>
+                </div>
+
+                <div class="screenshot-item">
+                    <div class="phone-frame small">
+                        <img src="assets/app_progress_screenshot.png" alt="Progress & Analytics">
+                    </div>
+                    <span class="screen-caption">Progress & Analytics</span>
+                </div>
+
+                <div class="screenshot-item">
+                    <div class="phone-frame small">
+                        <img src="assets/app_focus_screenshot.png" alt="Focus Timer">
+                    </div>
+                    <span class="screen-caption">Focus Stopwatch</span>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- FAQ Section -->
+    <section class="faq-section" id="faq">
+        <div class="container">
+            <div class="section-header">
+                <span class="section-badge">QUESTIONS & ANSWERS</span>
+                <h2 class="section-title">Frequently Asked Questions</h2>
+            </div>
+
+            <div class="faq-accordion">
+                <div class="faq-item active">
+                    <button class="faq-question">
+                        <span>Does EAP Tracker work completely offline?</span>
+                        <i data-lucide="chevron-down" class="faq-icon"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Yes! EAP Tracker stores all your routines, syllabus progress, study sessions, and exam marks locally on your device in real-time. You can use all features with zero internet connection.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>How does Google Drive and Cloud Sync work?</span>
+                        <i data-lucide="chevron-down" class="faq-icon"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>You can connect your Google account in 1-click from the Profile tab. The app automatically creates an encrypted backup snapshot on your personal Google Drive, allowing you to restore your data on any phone instantly.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>How do I add the Home Screen Widgets?</span>
+                        <i data-lucide="chevron-down" class="faq-icon"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>Simply long-press any empty space on your phone's home screen, tap <strong>Widgets</strong>, scroll down to <strong>EAP Tracker</strong>, and drag the Routine (4x2), Study Goal (2x2), or Syllabus Progress (4x2) widget onto your home screen.</p>
+                    </div>
+                </div>
+
+                <div class="faq-item">
+                    <button class="faq-question">
+                        <span>Which admission programs and batches are supported?</span>
+                        <i data-lucide="chevron-down" class="faq-icon"></i>
+                    </button>
+                    <div class="faq-answer">
+                        <p>EAP Tracker is tailor-made for Engineering (BUET, CKRuet, BUTEX, MIST), Varsity 'A' Unit (DU, JU, RU), and Medical Admission programs with dedicated Offline Branch and Online batch routines.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Download CTA Banner -->
+    <section class="download-section" id="download">
+        <div class="container">
+            <div class="download-card">
+                <div class="download-content">
+                    <span class="section-badge">GET STARTED TODAY</span>
+                    <h2 class="download-title">Download EAP Tracker for Android</h2>
+                    <p class="download-text">Take full control of your admission preparation journey. Download the release APK and start tracking today.</p>
+                    
+                    <div class="download-buttons">
+                        <a href="app-release.apk" class="btn-download-primary" download>
+                            <i data-lucide="download"></i>
+                            <div>
+                                <span class="d-sub">Download Official Build</span>
+                                <span class="d-title">EAPTracker-v1.0.0.apk</span>
+                            </div>
+                        </a>
+                        <div class="version-meta">
+                            <span><i data-lucide="check"></i> Version 1.0.0 (Release)</span>
+                            <span><i data-lucide="shield"></i> Virus & Malware Free</span>
+                            <span><i data-lucide="smartphone"></i> Android 7.0 to Android 15/16</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="download-logo-box">
+                    <img src="assets/icon1.png" alt="EAP Tracker App Icon" class="large-app-icon">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container footer-container">
+            <div class="footer-brand">
+                <div class="nav-brand">
+                    <img src="assets/icon1.png" alt="EAP Tracker Logo" class="brand-logo">
+                    <span class="brand-name">EAP<span>Tracker</span></span>
+                </div>
+                <p class="footer-tagline">Crafted with ❤️ for passionate Engineering and University admission dreamers in Bangladesh.</p>
+            </div>
+
+            <div class="footer-links">
+                <h4>Quick Links</h4>
+                <ul>
+                    <li><a href="#features">Features</a></li>
+                    <li><a href="#routine">Routine</a></li>
+                    <li><a href="#syllabus">Syllabus</a></li>
+                    <li><a href="#widgets">Widgets</a></li>
+                    <li><a href="#download">Download APK</a></li>
+                </ul>
+            </div>
+
+            <div class="footer-links">
+                <h4>Admission Targets</h4>
+                <ul>
+                    <li><a href="#">🏛️ BUET & Engineering</a></li>
+                    <li><a href="#">⚙️ CKRUET Combined</a></li>
+                    <li><a href="#">🎯 Dhaka University 'A'</a></li>
+                    <li><a href="#">🧪 Medical Admission</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            <div class="container">
+                <p>&copy; 2026 EAP Tracker. All rights reserved. Built for champions.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+    <script>
+        lucide.createIcons();
+    </script>
+</body>
+</html>

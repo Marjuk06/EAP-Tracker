@@ -1,0 +1,49 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="150dp"
+    android:height="150dp"
+    android:viewportWidth="150"
+    android:viewportHeight="150">
+
+    <!-- Card Background -->
+    <path
+        android:pathData="M16,0 H134 A16,16 0 0 1 150,16 V134 A16,16 0 0 1 134,150 H16 A16,16 0 0 1 0,134 V16 A16,16 0 0 1 16,0 Z"
+        android:fillColor="#1A202C"
+        android:strokeColor="#334155"
+        android:strokeWidth="1" />
+
+    <!-- App Logo Icon Circle -->
+    <path
+        android:pathData="M22,18 A7,7 0 1 1 21.9,18 Z"
+        android:fillColor="#0284C7" />
+
+    <!-- Header: DAILY GOAL -->
+    <path
+        android:pathData="M34,15 H85 V21 H34 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Percentage Tag -->
+    <path
+        android:pathData="M110,13 H138 A4,4 0 0 1 142,17 V21 A4,4 0 0 1 138,25 H110 A4,4 0 0 1 106,21 V17 A4,4 0 0 1 110,13 Z"
+        android:fillColor="#1E293B" />
+    <path
+        android:pathData="M114,17 H134 V21 H114 Z"
+        android:fillColor="#38BDF8" />
+
+    <!-- Center Big Goal: 5.5 / 8.0h -->
+    <path
+        android:pathData="M30,55 H120 V72 H30 Z"
+        android:fillColor="#FFFFFF" />
+
+    <!-- Subtitle: Target Study Goal -->
+    <path
+        android:pathData="M40,80 H110 V86 H40 Z"
+        android:fillColor="#94A3B8" />
+
+    <!-- Bottom Button: Open Focus Timer -->
+    <path
+        android:pathData="M18,105 H132 A8,8 0 0 1 140,113 V127 A8,8 0 0 1 132,135 H18 A8,8 0 0 1 10,127 V113 A8,8 0 0 1 18,105 Z"
+        android:fillColor="#0284C7" />
+    <path
+        android:pathData="M32,117 H118 V123 H32 Z"
+        android:fillColor="#FFFFFF" />
+</vector>

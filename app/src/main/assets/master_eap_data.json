@@ -1,0 +1,1526 @@
+{
+  "configVersion": 1786862361741,
+  "lastUpdated": "2026-08-16T12:39:21.741476Z",
+  "updateMessage": "📅 Complete EAP Admission 2026 Routine, Exam Schedules & Syllabus Topics have been updated! Check your latest routine.",
+  "offlineRoutine": [
+    {
+      "id": "off-01",
+      "date": "15-Aug-26",
+      "day": "Saturday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-02",
+      "date": "16-Aug-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-03",
+      "date": "17-Aug-26",
+      "day": "Monday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-04",
+      "date": "18-Aug-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-05",
+      "date": "19-Aug-26",
+      "day": "Wednesday",
+      "classSubject": "Physics (P-01)",
+      "examDetails": "P-01 Introductory Exam MCQ (25)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০২: ভেক্টর (ভেক্টর লব্ধি: সামান্তরিক সূত্র, উপাংশ বিভাজন, লম্বাংশ উপপাদ্য ব্যবহার করে লব্ধি নির্ণয়, আপেক্ষিক বেগ)",
+        "Part-02: ১ম পত্র - অধ্যায়-০২: ভেক্টর (ভেক্টরের ডট ও ক্রস গুণন এবং এর প্রয়োগ, ভেক্টর ক্যালকুলাস: Gradient, Curl & Divergence, নদী-নৌকা সংক্রান্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-06",
+      "date": "20-Aug-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-07",
+      "date": "21-Aug-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-08",
+      "date": "22-Aug-26",
+      "day": "Saturday",
+      "classSubject": "Chemistry (C-01)",
+      "examDetails": "P-01 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ২য় পত্র - অধ্যায়-০৩: পরিমাণগত রসায়ন (মোল, রাসায়নিক বিক্রিয়া, সহানুপাত সূত্র, ঘনমাত্রা)",
+        "Part-02: ২য় পত্র - অধ্যায়-০৩: পরিমাণগত রসায়ন (জারণ-বিজারণ, অম্ল-ক্ষার টাইট্রেশন, বিয়ার-ল্যাম্বার্ট সূত্র, শোষণ বর্ণালী); ১ম পত্র - অধ্যায়-০১: ল্যাবরেটরির নিরাপদ ব্যবহার"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-09",
+      "date": "23-Aug-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-10",
+      "date": "24-Aug-26",
+      "day": "Monday",
+      "classSubject": "Higher Math (M-01)",
+      "examDetails": "C-01 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৩: সরলরেখা (স্থানাঙ্ক ব্যবস্থা থেকে বিভিন্ন ক্ষেত্রে সরলরেখার সমীকরণ পর্যন্ত)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৩: সরলরেখা (সমীকরণ সম্পর্কিত সমস্যাবলি থেকে প্রতিবিম্ব পর্যন্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-11",
+      "date": "25-Aug-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-12",
+      "date": "26-Aug-26",
+      "day": "Wednesday",
+      "classSubject": "Higher Math (M-02)",
+      "examDetails": "M-01 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৪: বৃত্ত (বৃত্ত হবার শর্ত, বিভিন্ন ক্ষেত্রে সমীকরণ, পোলার সমীকরণ, অক্ষদ্বয়কে স্পর্শ/ছেদকারী বৃত্ত, সরলরেখা ও বৃত্তের ছেদবিন্দুগামী বৃত্তের সমীকরণ)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৪: বৃত্ত (বৃত্তের স্পর্শক-ছেদক, দুটি বৃত্তের পারস্পরিক অবস্থান, সাধারণ স্পর্শক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-13",
+      "date": "27-Aug-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": "Engg. Offline Weekly Exam-01: (P1+C1+M1) | Varsity 'KA' Offline Weekly Exam-01",
+      "topics": [
+        "Weekly Revision: Physics P-01 + Chemistry C-01 + Higher Math M-01"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-14",
+      "date": "28-Aug-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Medical Offline Weekly Exam-01: (Bio1+C1+P1+GK+E)",
+      "topics": [
+        "Medical Weekly Test: Bio-01 + C-01 + P-01 + General Knowledge + English"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-15",
+      "date": "29-Aug-26",
+      "day": "Saturday",
+      "classSubject": "Physics (P-02)",
+      "examDetails": "M-02 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৩: গতিবিদ্যা (প্রাস বাদে)",
+        "Part-02: ১ম পত্র - অধ্যায়-০১: ভৌত জগৎ ও পরিমাপ; অধ্যায়-০৩: গতিবিদ্যা (প্রাস)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-16",
+      "date": "30-Aug-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-17",
+      "date": "31-Aug-26",
+      "day": "Monday",
+      "classSubject": "Chemistry (C-02)",
+      "examDetails": "P-02 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (গ্রীন কেমিস্ট্রি, রাসায়নিক সাম্যাবস্থা, Kp, Kc)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (রাসায়নিক গতিবিদ্যা, বিক্রিয়ার তত্ত্ব, আরহেনিয়াসের সমীকরণ, বিক্রিয়ার ক্রম, প্রভাবক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-18",
+      "date": "01-Sep-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-19",
+      "date": "02-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "Chemistry (C-03)",
+      "examDetails": "C-02 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (অম্ল-ক্ষার সাম্যাবস্থা); ২য় পত্র - অধ্যায়-০১: পরিবেশ রসায়ন (এসিড-ক্ষার তত্ত্ব)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (তাপ-রসায়ন)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-20",
+      "date": "03-Sep-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": "Engg. Offline Weekly Exam-02: (P2+C2+M2) | Varsity 'KA' Offline Weekly Exam-02",
+      "topics": [
+        "Weekly Revision: Physics P-02 + Chemistry C-02 + Higher Math M-02"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-21",
+      "date": "04-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Medical Offline Weekly Exam-02: (Bio2+C2+P2+GK+E)",
+      "topics": [
+        "Medical Weekly Test: Bio-02 + C-02 + P-02 + General Knowledge + English"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-22",
+      "date": "05-Sep-26",
+      "day": "Saturday",
+      "classSubject": "Higher Math (M-03)",
+      "examDetails": "C-03 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ২য় পত্র - অধ্যায়-০৬: কণিক (কণিক সনাক্তকরণ ও পরাবৃত্ত)",
+        "Part-02: ২য় পত্র - অধ্যায়-০৬: কণিক (উপবৃত্ত, অধিবৃত্ত, নির্ণায়ক/স্পর্শক/ছেদক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-23",
+      "date": "06-Sep-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-24",
+      "date": "07-Sep-26",
+      "day": "Monday",
+      "classSubject": "Physics (P-03)",
+      "examDetails": "M-03 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (সুষম বৃত্তাকার গতি পর্যন্ত: নিউটনের সূত্র, ঘর্ষণ)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (ভরবেগের সংরক্ষণশীলতা, সংঘর্ষ, জড়তার ভ্রামক, টর্ক, কৌণিক ভরবেগ, ঘূর্ণন গতিশক্তি)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-25",
+      "date": "08-Sep-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-26",
+      "date": "09-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "Physics (P-04)",
+      "examDetails": "P-03 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (সুষম বৃত্তাকার গতি: আনুভূমিক ও উলম্ব তলে ঘূর্ণন, ব্যাংকিং)",
+        "Part-02: ১ম পত্র - অধ্যায়-০৫: কাজ, শক্তি ও ক্ষমতা"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-27",
+      "date": "10-Sep-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": "Engg. Offline Weekly Exam-03: (P3+C3+M3) | Varsity 'KA' Offline Weekly Exam-03",
+      "topics": [
+        "Weekly Revision: Physics P-03 + Chemistry C-03 + Higher Math M-03"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-28",
+      "date": "11-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Medical Offline Weekly Exam-03: (Bio3+C3+P3+GK+E)",
+      "topics": [
+        "Medical Weekly Test: Bio-03 + C-03 + P-03 + General Knowledge + English"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-29",
+      "date": "12-Sep-26",
+      "day": "Saturday",
+      "classSubject": "Chemistry (C-04)",
+      "examDetails": "P-04 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০২: গুণগত রসায়ন (পরমাণু মডেল, ইলেকট্রন বিন্যাসের নীতি, কোয়ান্টাম সংখ্যা, বর্ণালী)",
+        "Part-02: ১ম পত্র - অধ্যায়-০২: গুণগত রসায়ন (দ্রাব্যতা, দ্রাব্যতার গুণফল, আয়ন সনাক্তকরণ, গুণগত বিশ্লেষণ, ক্রোমাটোগ্রাফি, দ্রাবক নিষ্কাশন)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-30",
+      "date": "13-Sep-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-31",
+      "date": "14-Sep-26",
+      "day": "Monday",
+      "classSubject": "Higher Math (M-04)",
+      "examDetails": "C-04 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ২য় পত্র - অধ্যায়-০১: বাস্তব সংখ্যা ও অসমতা; ২য় পত্র - অধ্যায়-০৩: জটিল সংখ্যা (i-এর ঘাত ও ধারা, i দ্বারা গুণ, A+iB আকারে প্রকাশ, মডুলাস ও আর্গুমেন্ট)",
+        "Part-02: ২য় পত্র - অধ্যায়-০৩: জটিল সংখ্যা (পোলার রূপ, গুণ-ভাগ, অনুবন্ধী, মূল, মান নির্ণয়, সঞ্চারপথ)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-32",
+      "date": "15-Sep-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-33",
+      "date": "16-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "Higher Math (M-05)",
+      "examDetails": "M-04 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০১: ম্যাট্রিক্স ও নির্ণায়ক",
+        "Part-02: ২য় পত্র - অধ্যায়-০৪: বহুপদী ও বহুপদী সমীকরণ"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-34",
+      "date": "17-Sep-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": "Engg. Offline Weekly Exam-04: (P4+C4+M4) | Varsity 'KA' Offline Weekly Exam-04",
+      "topics": [
+        "Weekly Revision: Physics P-04 + Chemistry C-04 + Higher Math M-04"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-35",
+      "date": "18-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Medical Offline Weekly Exam-04: (Bio4+C4+P4+GK+E)",
+      "topics": [
+        "Medical Weekly Test: Bio-04 + C-04 + P-04 + General Knowledge + English"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-36",
+      "date": "19-Sep-26",
+      "day": "Saturday",
+      "classSubject": "Physics (P-05)",
+      "examDetails": "M-05 MCQ (20) + Written (10)",
+      "topics": [
+        "Part-01: ১ম পত্র - অধ্যায়-০৬: মহাকর্ষ ও অভিকর্ষ",
+        "Part-02: ১ম পত্র - অধ্যায়-০৭: পদার্থের গাঠনিক ধর্ম"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-37",
+      "date": "20-Sep-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": "Engg. Monthly Revision Test-01: PCM Written (600)",
+      "topics": [
+        "Engg. Monthly Mega Revision Test-01: PCM Lecture (01-04) Written (600 Marks)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-38",
+      "date": "21-Sep-26",
+      "day": "Monday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-39",
+      "date": "22-Sep-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-40",
+      "date": "23-Sep-26",
+      "day": "Wednesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-41",
+      "date": "24-Sep-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "off-42",
+      "date": "25-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    }
+  ],
+  "onlineRoutine": [
+    {
+      "id": "on-01",
+      "date": "15-Aug-26",
+      "day": "Saturday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-02",
+      "date": "16-Aug-26",
+      "day": "Sunday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-03",
+      "date": "17-Aug-26",
+      "day": "Monday",
+      "classSubject": "Online Orientation Class (7:30pm)",
+      "examDetails": null,
+      "topics": [
+        "Online Orientation Class (7:30pm) & Guidelines"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-04",
+      "date": "18-Aug-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-05",
+      "date": "19-Aug-26",
+      "day": "Wednesday",
+      "classSubject": "P-01 Part-01",
+      "examDetails": "P-01 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০২: ভেক্টর (ভেক্টর লব্ধি: সামান্তরিক সূত্র, উপাংশ বিভাজন, আপেক্ষিক বেগ)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-06",
+      "date": "20-Aug-26",
+      "day": "Thursday",
+      "classSubject": "P-01 Part-02",
+      "examDetails": "P-01 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০২: ভেক্টর (ডট ও ক্রস গুণন, ক্যালকুলাস, নদী-নৌকা সংক্রান্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-07",
+      "date": "21-Aug-26",
+      "day": "Friday",
+      "classSubject": "C-01 Part-01",
+      "examDetails": "C-01 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - অধ্যায়-০৩: পরিমাণগত রসায়ন (মোল, রাসায়নিক বিক্রিয়া, সহানুপাত সূত্র, ঘনমাত্রা)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-08",
+      "date": "22-Aug-26",
+      "day": "Saturday",
+      "classSubject": "C-01 Part-02",
+      "examDetails": "C-01 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - অধ্যায়-০৩: পরিমাণগত রসায়ন (জারণ-বিজারণ, টাইট্রেশন, ল্যাবরেটরির নিরাপদ ব্যবহার)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-09",
+      "date": "23-Aug-26",
+      "day": "Sunday",
+      "classSubject": "Bio-01 Part-01+02 / Archi-01",
+      "examDetails": "Bio-01 Part-01+02 MCQ (30) + Written (5)",
+      "topics": [
+        "Bio-01 Part-01+02 / Architecture-01 Live Marathon Class"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-10",
+      "date": "24-Aug-26",
+      "day": "Monday",
+      "classSubject": "M-01 Part-01",
+      "examDetails": "M-01 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৩: সরলরেখা (স্থানাঙ্ক ব্যবস্থা থেকে সরলরেখার সমীকরণ পর্যন্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-11",
+      "date": "25-Aug-26",
+      "day": "Tuesday",
+      "classSubject": "M-01 Part-02",
+      "examDetails": "M-01 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৩: সরলরেখা (সমীকরণ সম্পর্কিত সমস্যাবলি থেকে প্রতিবিম্ব পর্যন্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-12",
+      "date": "26-Aug-26",
+      "day": "Wednesday",
+      "classSubject": "P-02 Part-01",
+      "examDetails": "P-02 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৩: গতিবিদ্যা (প্রাস বাদে)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-13",
+      "date": "27-Aug-26",
+      "day": "Thursday",
+      "classSubject": "P-02 Part-02",
+      "examDetails": "P-02 Part-02 MCQ (15) + Written (10) | Engg. Weekly Live Exam-01 [27-28 Aug]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০১: ভৌত জগৎ ও পরিমাপ; অধ্যায়-০৩: গতিবিদ্যা (প্রাস)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-14",
+      "date": "28-Aug-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Varsity 'KA' Weekly Live Exam-01 [28-29 Aug] | Medical Weekly Live Exam-01 | Varsity 'Kha' Weekly Live Exam-01",
+      "topics": [
+        "Weekly Live Exam-01: Varsity 'KA', Medical & Varsity 'Kha'"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-15",
+      "date": "29-Aug-26",
+      "day": "Saturday",
+      "classSubject": "C-02 Part-01",
+      "examDetails": "C-02 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (গ্রীন কেমিস্ট্রি, রাসায়নিক সাম্যাবস্থা, Kp, Kc)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-16",
+      "date": "30-Aug-26",
+      "day": "Sunday",
+      "classSubject": "C-02 Part-02",
+      "examDetails": "C-02 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (রাসায়নিক গতিবিদ্যা, আরহেনিয়াস সমীকরণ, প্রভাবক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-17",
+      "date": "31-Aug-26",
+      "day": "Monday",
+      "classSubject": "Bio-02 Part-01+02 / Archi-02",
+      "examDetails": "Bio-02 Part-01+02 MCQ (30) + Written (5)",
+      "topics": [
+        "Bio-02 Part-01+02 / Architecture-02 Live Marathon Class"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-18",
+      "date": "01-Sep-26",
+      "day": "Tuesday",
+      "classSubject": "M-02 Part-01",
+      "examDetails": "M-02 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: বৃত্ত (বৃত্ত হবার শর্ত, বিভিন্ন ক্ষেত্রে সমীকরণ, অক্ষদ্বয়কে স্পর্শ/ছেদকারী বৃত্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-19",
+      "date": "02-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "M-02 Part-02",
+      "examDetails": "M-02 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: বৃত্ত (স্পর্শক-ছেদক, দুটি বৃত্তের পারস্পরিক অবস্থান, সাধারণ স্পর্শক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-20",
+      "date": "03-Sep-26",
+      "day": "Thursday",
+      "classSubject": "P-03 Part-01",
+      "examDetails": "P-03 Part-01 MCQ (15) + Written (10) | Engg. Weekly Live Exam-02 [03-04 Sep]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (সুষম বৃত্তাকার গতি পর্যন্ত: নিউটনের সূত্র, ঘর্ষণ)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-21",
+      "date": "04-Sep-26",
+      "day": "Friday",
+      "classSubject": "P-03 Part-02",
+      "examDetails": "P-03 Part-02 MCQ (15) + Written (10) | Varsity KA / Medical / Kha Live Exam-02 [04-05 Sep]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (ভরবেগের সংরক্ষণশীলতা, সংঘর্ষ, জড়তার ভ্রামক, টর্ক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-22",
+      "date": "05-Sep-26",
+      "day": "Saturday",
+      "classSubject": "C-03 Part-01",
+      "examDetails": "C-03 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (অম্ল-ক্ষার সাম্যাবস্থা); ২য় পত্র - পরিবেশ রসায়ন"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-23",
+      "date": "06-Sep-26",
+      "day": "Sunday",
+      "classSubject": "C-03 Part-02",
+      "examDetails": "C-03 Part-02 MCQ (15) + Written (10) | Bio-03 MCQ (30) + Written (5)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: রাসায়নিক পরিবর্তন (তাপ-রসায়ন)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-24",
+      "date": "07-Sep-26",
+      "day": "Monday",
+      "classSubject": "M-03 Part-01",
+      "examDetails": "M-03 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - অধ্যায়-০৬: কণিক (কণিক সনাক্তকরণ ও পরাবৃত্ত)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-25",
+      "date": "08-Sep-26",
+      "day": "Tuesday",
+      "classSubject": "M-03 Part-02",
+      "examDetails": "M-03 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - অধ্যায়-০৬: কণিক (উপবৃত্ত, অধিবৃত্ত, নির্ণায়ক/স্পর্শক/ছেদক)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-26",
+      "date": "09-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "P-04 Part-01",
+      "examDetails": "P-04 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৪: নিউটনীয় বলবিদ্যা (আনুভূমিক ও উলম্ব তলে ঘূর্ণন, ব্যাংকিং)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-27",
+      "date": "10-Sep-26",
+      "day": "Thursday",
+      "classSubject": "P-04 Part-02",
+      "examDetails": "P-04 Part-02 MCQ (15) + Written (10) | Engg. Weekly Live Exam-03 [10-11 Sep]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৫: কাজ, শক্তি ও ক্ষমতা"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-28",
+      "date": "11-Sep-26",
+      "day": "Friday",
+      "classSubject": "C-04 Part-01",
+      "examDetails": "C-04 Part-01 MCQ (15) + Written (10) | Varsity KA / Medical / Kha Live Exam-03 [11-12 Sep]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০২: গুণগত রসায়ন (পরমাণু মডেল, কোয়ান্টাম সংখ্যা, বর্ণালী)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-29",
+      "date": "12-Sep-26",
+      "day": "Saturday",
+      "classSubject": "C-04 Part-02",
+      "examDetails": "C-04 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০২: গুণগত রসায়ন (দ্রাব্যতা, দ্রাব্যতার গুণফল, আয়ন সনাক্তকরণ, ক্রোমাটোগ্রাফি)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-30",
+      "date": "13-Sep-26",
+      "day": "Sunday",
+      "classSubject": "Bio-04 Part-01+02 / Archi-04",
+      "examDetails": "Bio-04 Part-01+02 MCQ (30) + Written (5)",
+      "topics": [
+        "Bio-04 Part-01+02 / Architecture-04 Live Marathon Class"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-31",
+      "date": "14-Sep-26",
+      "day": "Monday",
+      "classSubject": "M-04 Part-01",
+      "examDetails": "M-04 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - বাস্তব সংখ্যা ও অসমতা; জটিল সংখ্যা (i-এর ঘাত, মডুলাস ও আর্গুমেন্ট)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-32",
+      "date": "15-Sep-26",
+      "day": "Tuesday",
+      "classSubject": "M-04 Part-02",
+      "examDetails": "M-04 Part-02 MCQ (15) + Written (10)",
+      "topics": [
+        "২য় পত্র - অধ্যায়-০৩: জটিল সংখ্যা (পোলার রূপ, অনুবন্ধী, মূল, মান নির্ণয়, সঞ্চারপথ)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-33",
+      "date": "16-Sep-26",
+      "day": "Wednesday",
+      "classSubject": "P-05 Part-01",
+      "examDetails": "P-05 Part-01 MCQ (15) + Written (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৬: মহাকর্ষ ও অভিকর্ষ"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-34",
+      "date": "17-Sep-26",
+      "day": "Thursday",
+      "classSubject": "P-05 Part-02",
+      "examDetails": "P-05 Part-02 MCQ (15) + Written (10) | Engg. Weekly Live Exam-04 [17-18 Sep]",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৭: পদার্থের গাঠনিক ধর্ম"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-35",
+      "date": "18-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": "Varsity KA / Medical / Kha Live Exam-04 [18-19 Sep]",
+      "topics": [
+        "Weekly Live Exam-04: Varsity 'KA', Medical & Varsity 'Kha'"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-36",
+      "date": "19-Sep-26",
+      "day": "Saturday",
+      "classSubject": "C-05 Part-01 / C-05 Part-02",
+      "examDetails": "C-05 Part-01 MCQ (15) + Wri (10) | C-05 Part-02 MCQ (15) + Wri (10)",
+      "topics": [
+        "১ম পত্র - অধ্যায়-০৩: পর্যায়বৃত্ত ধর্ম ও রাসায়নিক বন্ধন (হাইব্রিডাইজেশন, পোলারিটি, বন্ধন)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-37",
+      "date": "20-Sep-26",
+      "day": "Sunday",
+      "classSubject": "Bio-05 Part-01+02 / Archi-05",
+      "examDetails": "Bio-05 MCQ (30) + Written (5) | Engg. Monthly Live Exam-01 Written (600) [20-21 Sep]",
+      "topics": [
+        "Monthly Mega Live Exam-01: PCM Lecture (01-04) Written (600 Marks)"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-38",
+      "date": "21-Sep-26",
+      "day": "Monday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-39",
+      "date": "22-Sep-26",
+      "day": "Tuesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-40",
+      "date": "23-Sep-26",
+      "day": "Wednesday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-41",
+      "date": "24-Sep-26",
+      "day": "Thursday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    },
+    {
+      "id": "on-42",
+      "date": "25-Sep-26",
+      "day": "Friday",
+      "classSubject": null,
+      "examDetails": null,
+      "topics": [
+        "Self Study, Practice & Previous Topics Revision"
+      ],
+      "isCompleted": false
+    }
+  ],
+  "offlineExams": [
+    {
+      "date": "19-Aug-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-01 Introductory Exam MCQ (25)"
+      ],
+      "syllabus": [
+        "Introductory Physics Assessment (25 Marks)"
+      ]
+    },
+    {
+      "date": "22-Aug-26",
+      "day": "Saturday",
+      "exams": [
+        "P-01 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "ভেক্টর (লব্ধি, উপাংশ, গুণন, ক্যালকুলাস, নদী-নৌকা)"
+      ]
+    },
+    {
+      "date": "24-Aug-26",
+      "day": "Monday",
+      "exams": [
+        "C-01 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "পরিমাণগত রসায়ন ও ল্যাবরেটরির নিরাপদ ব্যবহার"
+      ]
+    },
+    {
+      "date": "26-Aug-26",
+      "day": "Wednesday",
+      "exams": [
+        "M-01 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "সরলরেখা (স্থানাঙ্ক, সমীকরণ, দূরত্ব, প্রতিবিম্ব)"
+      ]
+    },
+    {
+      "date": "27-Aug-26",
+      "day": "Thursday",
+      "exams": [
+        "Engg. Offline Weekly Exam-01: (P1+C1+M1)",
+        "Varsity 'KA' Offline Weekly Exam-01: (P1+C1+M1+Bio1/Ba/E)"
+      ],
+      "syllabus": [
+        "Weekly Exam 01: P-01 + C-01 + M-01"
+      ]
+    },
+    {
+      "date": "28-Aug-26",
+      "day": "Friday",
+      "exams": [
+        "Medical Offline Weekly Exam-01: (Bio1+C1+P1+GK+E)"
+      ],
+      "syllabus": [
+        "Medical Weekly Exam 01: Bio-01 + C-01 + P-01 + GK + Eng"
+      ]
+    },
+    {
+      "date": "29-Aug-26",
+      "day": "Saturday",
+      "exams": [
+        "M-02 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "বৃত্ত (সমীকরণ, অক্ষছেদী, স্পর্শক-ছেদক)"
+      ]
+    },
+    {
+      "date": "31-Aug-26",
+      "day": "Monday",
+      "exams": [
+        "P-02 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "গতিবিদ্যা (প্রাস, সমীকরণ) ও ভৌত জগৎ ও পরিমাপ"
+      ]
+    },
+    {
+      "date": "02-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "C-02 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "রাসায়নিক পরিবর্তন (সাম্যাবস্থা, Kp, Kc, গতিবিদ্যা)"
+      ]
+    },
+    {
+      "date": "03-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "Engg. Offline Weekly Exam-02: (P2+C2+M2)",
+        "Varsity 'KA' Offline Weekly Exam-02: (P2+C2+M2+Bio2/Ba/E)"
+      ],
+      "syllabus": [
+        "Weekly Exam 02: P-02 + C-02 + M-02"
+      ]
+    },
+    {
+      "date": "04-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "Medical Offline Weekly Exam-02: (Bio2+C2+P2+GK+E)"
+      ],
+      "syllabus": [
+        "Medical Weekly Exam 02: Bio-02 + C-02 + P-02 + GK + Eng"
+      ]
+    },
+    {
+      "date": "05-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "C-03 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "রাসায়নিক পরিবর্তন (অম্ল-ক্ষার, তাপ-রসায়ন) & পরিবেশ রসায়ন"
+      ]
+    },
+    {
+      "date": "07-Sep-26",
+      "day": "Monday",
+      "exams": [
+        "M-03 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "কণিক (পরাবৃত্ত, উপবৃত্ত, অধিবৃত্ত)"
+      ]
+    },
+    {
+      "date": "09-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-03 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "নিউটনীয় বলবিদ্যা (নিউটনের সূত্র, ঘর্ষণ, সংঘর্ষ, জড়তার ভ্রামক, টর্ক)"
+      ]
+    },
+    {
+      "date": "10-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "Engg. Offline Weekly Exam-03: (P3+C3+M3)",
+        "Varsity 'KA' Offline Weekly Exam-03: (P3+C3+M3+Bio3/Ba/E)"
+      ],
+      "syllabus": [
+        "Weekly Exam 03: P-03 + C-03 + M-03"
+      ]
+    },
+    {
+      "date": "11-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "Medical Offline Weekly Exam-03: (Bio3+C3+P3+GK+E)"
+      ],
+      "syllabus": [
+        "Medical Weekly Exam 03: Bio-03 + C-03 + P-03 + GK + Eng"
+      ]
+    },
+    {
+      "date": "12-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "P-04 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "নিউটনীয় বলবিদ্যা (ব্যাংকিং) ও কাজ, শক্তি ও ক্ষমতা"
+      ]
+    },
+    {
+      "date": "14-Sep-26",
+      "day": "Monday",
+      "exams": [
+        "C-04 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "গুণগত রসায়ন (পরমাণু মডেল, দ্রাব্যতা, ক্রোমাটোগ্রাফি)"
+      ]
+    },
+    {
+      "date": "16-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "M-04 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "বাস্তব সংখ্যা ও অসমতা, জটিল সংখ্যা"
+      ]
+    },
+    {
+      "date": "17-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "Engg. Offline Weekly Exam-04: (P4+C4+M4)",
+        "Varsity 'KA' Offline Weekly Exam-04: (P4+C4+M4+Bio4/Ba/E)"
+      ],
+      "syllabus": [
+        "Weekly Exam 04: P-04 + C-04 + M-04"
+      ]
+    },
+    {
+      "date": "18-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "Medical Offline Weekly Exam-04: (Bio4+C4+P4+GK+E)"
+      ],
+      "syllabus": [
+        "Medical Weekly Exam 04: Bio-04 + C-04 + P-04 + GK + Eng"
+      ]
+    },
+    {
+      "date": "19-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "M-05 MCQ (20) + Written (10)"
+      ],
+      "syllabus": [
+        "ম্যাট্রিক্স ও নির্ণায়ক, বহুপদী ও বহুপদী সমীকরণ"
+      ]
+    },
+    {
+      "date": "20-Sep-26",
+      "day": "Sunday",
+      "exams": [
+        "Engg. Monthly Revision Test-01: PCM Lecture (01-04) Written (600)"
+      ],
+      "syllabus": [
+        "Monthly Mega Test: PCM Lectures (01 to 04) Written (600 Marks)"
+      ]
+    }
+  ],
+  "onlineExams": [
+    {
+      "date": "19-Aug-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-01 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "ভেক্টর (সামান্তরিক সূত্র, উপাংশ বিভাজন, আপেক্ষিক বেগ)"
+      ]
+    },
+    {
+      "date": "20-Aug-26",
+      "day": "Thursday",
+      "exams": [
+        "P-01 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "ভেক্টর (ডট-ক্রস গুণন, ক্যালকুলাস, নদী-নৌকা)"
+      ]
+    },
+    {
+      "date": "21-Aug-26",
+      "day": "Friday",
+      "exams": [
+        "C-01 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "পরিমাণগত রসায়ন (মোল, বিক্রিয়া, ঘনমাত্রা)"
+      ]
+    },
+    {
+      "date": "22-Aug-26",
+      "day": "Saturday",
+      "exams": [
+        "C-01 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "পরিমাণগত রসায়ন (জারণ-বিজারণ, টাইট্রেশন, নিরাপদ ব্যবহার)"
+      ]
+    },
+    {
+      "date": "23-Aug-26",
+      "day": "Sunday",
+      "exams": [
+        "Bio-01 Part-01+02 MCQ (30) + Wri. (5)"
+      ],
+      "syllabus": [
+        "বায়োলজি অধ্যায়-০১ (৩৫ নম্বর)"
+      ]
+    },
+    {
+      "date": "24-Aug-26",
+      "day": "Monday",
+      "exams": [
+        "M-01 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "সরলরেখা (স্থানাঙ্ক ব্যবস্থা ও সমীকরণ)"
+      ]
+    },
+    {
+      "date": "25-Aug-26",
+      "day": "Tuesday",
+      "exams": [
+        "M-01 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "সরলরেখা (সমীকরণ সমস্যাবলি ও প্রতিবিম্ব)"
+      ]
+    },
+    {
+      "date": "26-Aug-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-02 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "গতিবিদ্যা (প্রাস বাদে)"
+      ]
+    },
+    {
+      "date": "27-Aug-26",
+      "day": "Thursday",
+      "exams": [
+        "P-02 Part-02 MCQ (15) + Wri. (10)",
+        "Engg. Weekly Live Exam-01: (P1+C1+M1) [27-28 Aug]"
+      ],
+      "syllabus": [
+        "ভৌত জগৎ ও পরিমাপ, গতিবিদ্যা (প্রাস) & Engg Weekly Live 01"
+      ]
+    },
+    {
+      "date": "28-Aug-26",
+      "day": "Friday",
+      "exams": [
+        "Varsity 'KA' Weekly Live Exam-01 [28-29 Aug]",
+        "Medical Weekly Live Exam-01 [28-29 Aug]",
+        "Varsity 'Kha' Weekly Live Exam-01 [28-29 Aug]"
+      ],
+      "syllabus": [
+        "Mega Weekly Live Exams (Varsity KA, Medical, Varsity Kha)"
+      ]
+    },
+    {
+      "date": "29-Aug-26",
+      "day": "Saturday",
+      "exams": [
+        "C-02 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "রাসায়নিক পরিবর্তন (গ্রীন কেমিস্ট্রি, সাম্যাবস্থা, Kp, Kc)"
+      ]
+    },
+    {
+      "date": "30-Aug-26",
+      "day": "Sunday",
+      "exams": [
+        "C-02 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "রাসায়নিক পরিবর্তন (গতিবিদ্যা, আরহেনিয়াস সমীকরণ)"
+      ]
+    },
+    {
+      "date": "31-Aug-26",
+      "day": "Monday",
+      "exams": [
+        "Bio-02 Part-01+02 MCQ (30) + Wri. (5)"
+      ],
+      "syllabus": [
+        "বায়োলজি অধ্যায়-০২ (৩৫ নম্বর)"
+      ]
+    },
+    {
+      "date": "01-Sep-26",
+      "day": "Tuesday",
+      "exams": [
+        "M-02 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "বৃত্ত (সমীকরণ, অক্ষছেদী বৃত্ত)"
+      ]
+    },
+    {
+      "date": "02-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "M-02 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "বৃত্ত (স্পর্শক-ছেদক, দুটি বৃত্তের অবস্থান)"
+      ]
+    },
+    {
+      "date": "03-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "P-03 Part-01 MCQ (15) + Wri. (10)",
+        "Engg. Weekly Live Exam-02: (P2+C2+M2) [03-04 Sep]"
+      ],
+      "syllabus": [
+        "নিউটনীয় বলবিদ্যা (নিউটনের সূত্র, ঘর্ষণ) & Engg Weekly Live 02"
+      ]
+    },
+    {
+      "date": "04-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "P-03 Part-02 MCQ (15) + Wri. (10)",
+        "Varsity KA / Medical / Kha Live Exam-02 [04-05 Sep]"
+      ],
+      "syllabus": [
+        "নিউটনীয় বলবিদ্যা (ভরবেগ, জড়তার ভ্রামক, টর্ক) & Live Exams"
+      ]
+    },
+    {
+      "date": "05-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "C-03 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "রাসায়নিক পরিবর্তন (অম্ল-ক্ষার) & পরিবেশ রসায়ন"
+      ]
+    },
+    {
+      "date": "06-Sep-26",
+      "day": "Sunday",
+      "exams": [
+        "C-03 Part-02 MCQ (15) + Wri. (10)",
+        "Bio-03 Part-01+02 MCQ (30) + Wri. (5)"
+      ],
+      "syllabus": [
+        "তাপ-রসায়ন ও বায়োলজি অধ্যায়-০৩ (৩৫ নম্বর)"
+      ]
+    },
+    {
+      "date": "07-Sep-26",
+      "day": "Monday",
+      "exams": [
+        "M-03 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "কণিক (পরাবৃত্ত)"
+      ]
+    },
+    {
+      "date": "08-Sep-26",
+      "day": "Tuesday",
+      "exams": [
+        "M-03 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "কণিক (উপবৃত্ত, অধিবৃত্ত)"
+      ]
+    },
+    {
+      "date": "09-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-04 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "নিউটনীয় বলবিদ্যা (আনুভূমিক ও উলম্ব ঘূর্ণন, ব্যাংকিং)"
+      ]
+    },
+    {
+      "date": "10-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "P-04 Part-02 MCQ (15) + Wri. (10)",
+        "Engg. Weekly Live Exam-03: (P3+C3+M3) [10-11 Sep]"
+      ],
+      "syllabus": [
+        "কাজ, শক্তি ও ক্ষমতা & Engg Weekly Live 03"
+      ]
+    },
+    {
+      "date": "11-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "C-04 Part-01 MCQ (15) + Wri. (10)",
+        "Varsity KA / Medical / Kha Live Exam-03 [11-12 Sep]"
+      ],
+      "syllabus": [
+        "গুণগত রসায়ন (মডেল, কোয়ান্টাম সংখ্যা) & Live Exams"
+      ]
+    },
+    {
+      "date": "12-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "C-04 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "গুণগত রসায়ন (দ্রাব্যতা, আয়ন সনাক্তকরণ, ক্রোমাটোগ্রাফি)"
+      ]
+    },
+    {
+      "date": "13-Sep-26",
+      "day": "Sunday",
+      "exams": [
+        "Bio-04 Part-01+02 MCQ (30) + Wri. (5)"
+      ],
+      "syllabus": [
+        "বায়োলজি অধ্যায়-০৪ (৩৫ নম্বর)"
+      ]
+    },
+    {
+      "date": "14-Sep-26",
+      "day": "Monday",
+      "exams": [
+        "M-04 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "বাস্তব সংখ্যা ও অসমতা, জটিল সংখ্যা (মডুলাস ও আর্গুমেন্ট)"
+      ]
+    },
+    {
+      "date": "15-Sep-26",
+      "day": "Tuesday",
+      "exams": [
+        "M-04 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "জটিল সংখ্যা (পোলার রূপ, অনুবন্ধী, মূল, সঞ্চারপথ)"
+      ]
+    },
+    {
+      "date": "16-Sep-26",
+      "day": "Wednesday",
+      "exams": [
+        "P-05 Part-01 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "মহাকর্ষ ও অভিকর্ষ"
+      ]
+    },
+    {
+      "date": "17-Sep-26",
+      "day": "Thursday",
+      "exams": [
+        "P-05 Part-02 MCQ (15) + Wri. (10)",
+        "Engg. Weekly Live Exam-04: (P4+C4+M4) [17-18 Sep]"
+      ],
+      "syllabus": [
+        "পদার্থের গাঠনিক ধর্ম & Engg Weekly Live 04"
+      ]
+    },
+    {
+      "date": "18-Sep-26",
+      "day": "Friday",
+      "exams": [
+        "Varsity KA / Medical / Kha Live Exam-04 [18-19 Sep]"
+      ],
+      "syllabus": [
+        "Weekly Live Exam-04: Varsity 'KA', Medical & Varsity 'Kha'"
+      ]
+    },
+    {
+      "date": "19-Sep-26",
+      "day": "Saturday",
+      "exams": [
+        "C-05 Part-01 MCQ (15) + Wri. (10)",
+        "C-05 Part-02 MCQ (15) + Wri. (10)"
+      ],
+      "syllabus": [
+        "পর্যায়বৃত্ত ধর্ম ও বন্ধন (হাইব্রিডাইজেশন, পোলারিটি, বন্ধন)"
+      ]
+    },
+    {
+      "date": "20-Sep-26",
+      "day": "Sunday",
+      "exams": [
+        "Bio-05 Part-01+02 MCQ (30) + Wri. (5)",
+        "Engg. Monthly Revision Test-01 Written (600) [20-21 Sep]"
+      ],
+      "syllabus": [
+        "Bio-05 & Engg. Monthly Mega Live Exam-01 Written (600 Marks)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "786004356581",
+    "firebase_url": "https://eap-tracker-default-rtdb.firebaseio.com",
+    "project_id": "eap-tracker",
+    "storage_bucket": "eap-tracker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786004356581:android:2b990ae9c6217f10a8130c",
+        "android_client_info": {
+          "package_name": "com.marjuk.eaptracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oFjcx0kMKNtjHJ0YeSJbokzzQxQY2wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786004356581:android:2b990ae9c6217f10a8130d",
+        "android_client_info": {
+          "package_name": "com.marjuk.eapadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8oFjcx0kMKNtjHJ0YeSJbokzzQxQY2wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
